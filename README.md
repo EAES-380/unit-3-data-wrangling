@@ -1,6 +1,6 @@
 # Unit 3: Data Wrangling
 
-This repository, or "repo", contains two graded assignments you will complete by midnight on 2/14:
+This repository, or "repo", contains two graded assignments you will complete by 5pm on 10/08:
 
 Lab 3: Great Lakes Fish Stocks
 
